@@ -6,4 +6,6 @@ a.out : lab-03-main.c lab-03-lib.c getline.c
 
 # To comilie a 
 clean:
-	rm *.out	
+	rm *.out
+
+#nothing elsa
